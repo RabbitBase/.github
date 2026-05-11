@@ -1,64 +1,69 @@
-# 🐇 Rabbit Base
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RabbitBase/.github/main/profile/logo.png" alt="Rabbit Base" width="130"/>
+</p>
 
-> Building real-world applications on top of the tools that already exist — together.
+<h1 align="center">Rabbit Base</h1>
 
----
+<p align="center">
+  Building real-world apps on existing tech. Open source, open doors.
+</p>
 
-## What we do
-
-Rabbit Base is an open-source organization focused on creating **end-user applications** using existing technologies, frameworks, and ecosystems. We don't reinvent the wheel — we build things people actually use, on top of the shoulders of giants.
-
-Our projects span web, mobile, desktop, data, and beyond. If it solves a real problem and uses solid existing tech to do it, it belongs here.
-
----
-
-## Our philosophy
-
-- **Use what works.** We build *with* existing tools, not around them.
-- **Ship things people use.** End applications over endless abstractions.
-- **Every contribution matters.** A typo fix, a feature, a docs improvement — all of it moves us forward.
-- **No gatekeeping.** Whether this is your first pull request or your thousandth, you are welcome here.
+<p align="center">
+  <img src="https://img.shields.io/badge/open%20source-yes-brightgreen?style=flat-square" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/contributions-welcome-orange?style=flat-square" alt="Contributions Welcome"/>
+  <img src="https://img.shields.io/badge/skill%20level-all%20welcome-blue?style=flat-square" alt="All Skill Levels"/>
+</p>
 
 ---
 
-## Who can contribute?
+## What is Rabbit Base?
 
-**Anyone.** Seriously.
+Rabbit Base is an open-source organization that builds **end-user applications** on top of technologies that already exist. We don't reinvent the wheel — we build things people actually use, on top of proven tools, frameworks, and ecosystems.
 
-We actively welcome:
-- First-time open-source contributors
-- Developers switching stacks or learning something new
-- Experienced engineers looking to build something meaningful
-- Designers, writers, and anyone who wants to help
-
-If you've ever thought *"I don't know enough to contribute to open source"* — this is the place to prove that wrong.
+Our projects span web, mobile, desktop, data, and beyond. The common thread: real applications that solve real problems.
 
 ---
 
-## Getting started
+## Our values
 
-1. Browse our [repositories](https://github.com/orgs/rabbit-base/repositories) and find something that interests you
-2. Read the `CONTRIBUTING.md` in any repo before opening your first PR
-3. Look for issues tagged `good first issue` if you're not sure where to start
-4. Jump into a discussion, ask questions, or just say hello
-
-We'll have a proper contribution guide and community space up shortly.
-
----
-
-## Current status
-
-🚧 **We're just getting started.** The org is new, the projects are early, and there's a lot of room to shape what Rabbit Base becomes. This is actually the best time to get involved — your voice carries a lot of weight here.
+| | |
+|---|---|
+| 🔧 **Use what works** | We build *with* existing tools, not around them |
+| 🚀 **Ship real things** | End applications over endless abstractions |
+| 🤝 **Everyone belongs** | First PR or five hundredth — you're welcome here |
+| 🌱 **Always growing** | The org is new, and there's room to shape what it becomes |
 
 ---
 
-## Stay connected
+## Contributing
 
-- 💬 [Discussions](https://github.com/orgs/rabbit-base/discussions) — questions, ideas, introductions
-- 🐛 Issues in individual repos for bug reports and feature requests
+We actively welcome contributors of **all skill levels** — including people making their very first open-source contribution.
+
+**Here's how to get started:**
+
+1. Browse our [repositories](https://github.com/orgs/RabbitBase/repositories) and find something interesting
+2. Look for issues tagged `good first issue` if you're not sure where to begin
+3. Read the `CONTRIBUTING.md` in the repo you choose
+4. Open a PR, ask a question, or just introduce yourself in [Discussions](https://github.com/orgs/RabbitBase/discussions)
+
+No contribution is too small. A typo fix, a test, a feature, a docs improvement — it all matters.
+
+---
+
+## Project status
+
+> 🚧 **Early stage** — We're just getting started, which means there's a lot of opportunity to get involved early and help define what Rabbit Base builds next.
+
+---
+
+## Community
+
+- 💬 [Discussions](https://github.com/orgs/RabbitBase/discussions) — ideas, questions, introductions
+- 🐛 Issues in individual repositories for bugs and feature requests
+- 🌟 Star a repo you'd like to see grow
 
 ---
 
 <p align="center">
-  <sub>Built by contributors, for users. All skill levels welcome.</sub>
+  <sub>Made with ❤️ by contributors around the world · All skill levels welcome</sub>
 </p>
